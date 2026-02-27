@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "license_key": "PREMIUM-A7F3-9B2E-4D1C",
+      "owner": "karpuzmegavayt",
+      "hwid": "HWID-575349FD548B178F79287999",
+      "registered_at": "2026-01-31T17:23:05.799349",
+      "last_login": "2026-01-31T17:23:05.799382"
+    },
+    {
+      "license_key": "LEGACY-PREM-9B33CB0D",
+      "owner": "PremiumSt0re",
+      "hwid": "HWID-B9CA20115DFD22BE4C16AA8F",
+      "registered_at": "2026-01-31T17:39:16.697652",
+      "last_login": "2026-01-31T17:39:16.697672",
+      "legacy": true
+    },
+    {
+      "license_key": "PREMIUM-W3X6-Y2Z8-T5V4",
+      "owner": "KomutaBey",
+      "hwid": "HWID-B9D47D8B378EF75ED07F3D9A",
+      "registered_at": "2026-02-01T11:08:06.442148",
+      "last_login": "2026-02-01T11:08:06.442164"
+    },
+    {
+      "license_key": "PREMIUM-K8M2-5N7P-1Q9R",
+      "owner": "Sandvic",
+      "hwid": "HWID-FC0A9F124A39B116822DBA0C",
+      "registered_at": "2026-02-01T20:18:25.749775",
+      "last_login": "2026-02-01T20:18:25.749787"
+    },
+    {
+      "license_key": "PREMIUM-L9H4-J6K3-M8N2",
+      "owner": "WKYShop",
+      "hwid": "HWID-913CF058675AD002ED178E1B",
+      "registered_at": "2026-02-02T23:02:37.139598",
+      "last_login": "2026-02-02T23:02:37.139617"
+    },
+    {
+      "license_key": "PREMIUM-R5S7-U9V2-X4Y6",
+      "owner": "ewoqss86",
+      "hwid": "HWID-7C7E9A2A5A3B7B24C8AE6AE5",
+      "registered_at": "2026-02-06T14:39:09.478887",
+      "last_login": "2026-02-06T14:39:09.478901"
+    },
+    {
+      "license_key": "PREMIUM-B3C5-D7F9-G2H4",
+      "owner": "TunaStore",
+      "hwid": "HWID-BD65539D4E38463C69F152C2",
+      "registered_at": "2026-02-15T04:25:24.189323",
+      "last_login": "2026-02-15T04:25:24.189335"
+    },
+    {
+      "license_key": "PREMIUM-P1Q3-R5S7-T9U2",
+      "owner": "Chatiment",
+      "hwid": "HWID-A3F1B1B9F4301E1E4E33ED54",
+      "registered_at": "2026-02-17T00:41:01.451842",
+      "last_login": "2026-02-17T00:41:01.451860"
+    },
+    {
+      "license_key": "PREMIUM-E8F2-G4H6-J9K3",
+      "owner": "AposisHD",
+      "hwid": "HWID-18A685EB7373D885FD3F0B67",
+      "registered_at": "2026-02-22T15:27:37.192235",
+      "last_login": "2026-02-22T15:27:37.192248"
+    },
+    {
+      "license_key": "PREMIUM-Z4A8-C2E6-H9J1",
+      "owner": "slipz",
+      "hwid": "HWID-323A5E027AA7FF20B2C4D519",
+      "registered_at": "2026-02-22T16:32:03.608396",
+      "last_login": "2026-02-22T16:32:03.608423"
+    },
+    {
+      "license_key": "PREMIUM-M7N3-P5Q9-S2T6",
+      "owner": "uyesilyurt950",
+      "hwid": "HWID-80580207ED285254A76468DD",
+      "registered_at": "2026-02-24T04:30:32.842826",
+      "last_login": "2026-02-24T04:30:32.842879"
+    },
+    {
+      "license_key": "PREMIUM-V8W4-X1Y5-Z9A3",
+      "owner": "LimbaStore",
+      "hwid": "HWID-EB6AE78F7759C51C8DDF76F2",
+      "registered_at": "2026-02-26T16:51:13.215928",
+      "last_login": "2026-02-26T16:51:13.215947"
+    }
+  ],
+  "banned_users": []
+}
