@@ -111,13 +111,6 @@
       "hwid": "HWID-BC300EB4F33252AA2A035DB8",
       "registered_at": "2026-03-29T11:31:48.356699",
       "last_login": "2026-03-29T11:31:48.356721"
-    },
-    {
-      "license_key": "LEGACY-PREM-9B33CB0D",
-      "owner": "PremiumSt0re",
-      "hwid": "HWID-B9CA20115DFD22BE4C16AA8F",
-      "registered_at": "2026-04-15T12:00:00.000000",
-      "last_login": "2026-04-15T12:00:00.000000"
     }
   ],
   "banned_users": []
