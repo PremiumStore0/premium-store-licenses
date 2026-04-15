@@ -1,13 +1,13 @@
 {
-  "version": "3.4.4",
-  "release_date": "2026-02-27",
+  "version": "3.4.5",
+  "release_date": "2026-04-15",
   "is_critical": true,
-  "force_update": true,
-  "changelog": "🔧 GÜNCELLEME NOTLARI v3.4.4\n\n✅ Yeni Özellikler:\n- API sunucusu yeni adrese taşındı\n- Bağlantı stabilitesi artırıldı\n\n🛠️ Düzeltmeler:\n- Eski API adresi güncellendi\n- Sunucu bağlantı hatası giderildi\n\n📦 Önceki Sürüm: v3.4.3",
+  "force_update": false,
+  "changelog": "🔧 GÜNCELLEME NOTLARI v3.4.5\n\n✅ Yeni Özellikler:\n- API'ye Bağlanılmadan Uygulama Girişi Getirildi\n\n🛠️ Düzeltmeler:\n- Sunucu Bağlantı Hatası Giderildi\n- BU GÜNCELLEME ZORUNLU DEĞİLDİR\n\n📦 Önceki Sürüm: v3.4.4",
   "files": [
     {
       "filename": "PSVisitBot.exe",
-      "url": "https://raw.githubusercontent.com/PremiumStore0/premium-store-licenses/main/VERSIONS/V3.4.4/PSVisitBot.exe",
+      "url": "https://github.com/PremiumStore0/premium-store-visitbot-file/releases/download/v3.5.0/PSVisitBot.exe",
       "hash": ""
     }
   ],
