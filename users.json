@@ -132,6 +132,13 @@
       "hwid": "HWID-7ABDFE7BC233A0ABA05C9028",
       "registered_at": "2026-04-22T23:00:00.000000",
       "last_login": "2026-04-22T23:00:00.000000"
+    },
+    {
+      "license_key": "PREMIUM-X4Y8-A2B6-E9F3",
+      "owner": "tunakrok",
+      "hwid": "HWID-A5869F01E422CCC140973DB9",
+      "registered_at": "2026-05-06T00:00:00.000000",
+      "last_login": "2026-05-06T00:00:00.000000"
     }
   ],
   "banned_users": []
