@@ -139,6 +139,13 @@
       "hwid": "HWID-A5869F01E422CCC140973DB9",
       "registered_at": "2026-05-06T00:00:00.000000",
       "last_login": "2026-05-06T00:00:00.000000"
+    },
+    {
+      "license_key": "PREMIUM-C7D1-G5H9-K3L8",
+      "owner": "EnsMedia",
+      "hwid": "HWID-8F3FA61CF96357AFFDBFB334",
+      "registered_at": "2026-05-11T00:00:00.000000",
+      "last_login": "2026-05-11T00:00:00.000000"
     }
   ],
   "banned_users": []
