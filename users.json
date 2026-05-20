@@ -153,6 +153,13 @@
       "hwid": "HWID-002281A51E3F75B435281F46",
       "registered_at": "2026-05-16T00:00:00.000000",
       "last_login": "2026-05-16T00:00:00.000000"
+    },
+    {
+      "license_key": "PREMIUM-Z9A3-C7D1-F5G4",
+      "owner": "koyzer",
+      "hwid": "HWID-DF5D3788378C6891A2C5F630",
+      "registered_at": "2026-05-20T16:00:00.000000",
+      "last_login": "2026-05-20T16:00:00.000000"
     }
   ],
   "banned_users": []
