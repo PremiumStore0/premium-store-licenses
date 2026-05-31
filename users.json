@@ -1,3 +1,4 @@
+```json
 {
   "users": [
     {
@@ -167,7 +168,15 @@
       "hwid": "HWID-CB5D17E4F64A1E6136F70B49",
       "registered_at": "2026-05-22T12:00:00.000000",
       "last_login": "2026-05-22T12:00:00.000000"
+    },
+    {
+      "license_key": "LEGACY-REDG-CF91162E",
+      "owner": "redghostxx",
+      "hwid": "HWID-A639336499B9D60C5CBB0905",
+      "registered_at": "2026-05-31T11:00:00.000000",
+      "last_login": "2026-05-31T11:00:00.000000"
     }
   ],
   "banned_users": []
 }
+```
