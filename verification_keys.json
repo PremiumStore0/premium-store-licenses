@@ -399,11 +399,19 @@
     {
       "key": "LEGACY-PREM-9B33CB0D",
       "status": "active"
+    },
+    {
+      "key": "LEGACY-REDG-CF91162E",
+      "status": "active"
+    },
+    {
+      "key": "LEGACY-RAYN-8E35E368",
+      "status": "active"
     }
   ],
   "banned_hwids": [],
   "stats": {
-    "total_keys": 100,
+    "total_keys": 102,
     "active_keys": 17,
     "banned_hwids": 0
   }
