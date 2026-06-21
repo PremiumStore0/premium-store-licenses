@@ -407,12 +407,16 @@
     {
       "key": "LEGACY-RAYN-8E35E368",
       "status": "active"
+    },
+    {
+      "key": "LEGACY-RAYN-46C43D6E",
+      "status": "active"
     }
   ],
   "banned_hwids": [],
   "stats": {
-    "total_keys": 102,
-    "active_keys": 17,
+    "total_keys": 103,
+    "active_keys": 103,
     "banned_hwids": 0
   }
 }
