@@ -188,6 +188,13 @@
       "hwid": "HWID-F8832544A8C6CE15A7ED56E6",
       "registered_at": "2026-06-16T00:00:00.000000",
       "last_login": "2026-06-16T00:00:00.000000"
+    },
+    {
+      "license_key": "LEGACY-RAYN-46C43D6E",
+      "owner": "RaynorShop",
+      "hwid": "HWID-5CD8C554803A07E1F88C9C74",
+      "registered_at": "2026-06-21T00:00:00.000000",
+      "last_login": "2026-06-21T00:00:00.000000"
     }
   ],
   "banned_users": []
